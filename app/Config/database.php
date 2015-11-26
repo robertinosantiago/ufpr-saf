@@ -72,10 +72,10 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
-		'prefix' => '',
+		'login' => 'root',
+		'password' => '123456',
+		'database' => 'atividadesformativas',
+		'prefix' => 'af_',
 		//'encoding' => 'utf8',
 	);
 
